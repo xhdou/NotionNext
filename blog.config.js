@@ -173,7 +173,7 @@ const BLOG = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://m701.music.126.net/20230619205813/09287dbbe90a6f2889195351be494968/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/25165802075/dca5/cbe9/17c2/c8cdbd4249df6fce1ecaf1c61da44168.mp3',
       cover:
-          'https://p1.music.126.net/6KIQncKYmtl6zqGPO-Xn3w==/109951168375137255.jpg?param=130y130'
+          'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: '王都グランセル',
