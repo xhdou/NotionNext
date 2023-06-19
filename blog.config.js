@@ -169,15 +169,15 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
+      name: '乌鸦像写字台',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      url: 'https://m701.music.126.net/20230619205813/09287dbbe90a6f2889195351be494968/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/25165802075/dca5/cbe9/17c2/c8cdbd4249df6fce1ecaf1c61da44168.mp3',
       cover:
-          'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+          'https://p1.music.126.net/6KIQncKYmtl6zqGPO-Xn3w==/109951168375137255.jpg?param=130y130'
     },
     {
       name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
+      artist: 'AniFace',
       url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
       cover:
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
