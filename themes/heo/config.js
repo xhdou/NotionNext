@@ -52,7 +52,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/xhdou',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://www.aramark.cn/',
-  HEO_INFO_CARD_TEXT3: 'Aramark官网',
+  HEO_INFO_CARD_TEXT3: '企业官网',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
