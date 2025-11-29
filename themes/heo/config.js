@@ -51,8 +51,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/xhdou',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://blog.xiaohuadou.top',
-  HEO_INFO_CARD_TEXT3: '个人BLOG',
+  HEO_INFO_CARD_URL3: 'https://www.aramark.cn/',
+  HEO_INFO_CARD_TEXT3: 'Aramark官网',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
