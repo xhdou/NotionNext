@@ -38,7 +38,7 @@ module.exports = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '旧光',  
-      artist: 'Falcom Sound Team jdk',
+      artist: '傅子恒',
       url: 'https://music.163.com/song/media/outer/url?id=3342986256.mp3',
       cover:
         'https://p1.music.126.net/Q_fo5pbOcXwtB5fcurQlVQ==/109951172642837003.jpg'
